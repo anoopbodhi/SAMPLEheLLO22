@@ -7,6 +7,7 @@
 <title>Welcome Page</title>
 </head>
 <body>
-hiiiiiiiiiii 
+USERNAME<input type="text">
+PASSWORD<input type="text"
 </body>
 </html>
