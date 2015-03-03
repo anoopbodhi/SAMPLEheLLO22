@@ -7,6 +7,6 @@
 <title>Welcome</title>
 </head>
 <body>
-
+USERNAME : <input type="text">
 </body>
 </html>
